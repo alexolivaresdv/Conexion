@@ -18,7 +18,7 @@ public class ConexionBD
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String USER = "root";
     private static final String PASS = "";
-    private static final String URL = "jdbc:mysql://localhost:330/conexion";
+    private static final String URL = "jdbc:mysql://localhost:3306/conexion";
     
     //Paso 12 - Contructor de la clase
     public ConexionBD()
